@@ -166,6 +166,7 @@ body{
 }
 
 .header .about{
+	font-size: 10px;
 	margin-top: 20px;
 	line-height: 26px;
 }
